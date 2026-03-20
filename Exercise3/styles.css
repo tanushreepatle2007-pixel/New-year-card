@@ -1,0 +1,57 @@
+body {
+        background-color: rgba(253, 245, 232, 0.847);
+    }
+
+    .cards {
+        height: 810px;
+        width: 490px;
+        background-color: white;
+        border: 2px solid gray;
+        margin: 107px;
+        border-radius: 17px;
+
+    }
+
+    img {
+        height: 430px;
+        width: 460px;
+        object-fit: cover;
+        padding: 16px;
+        object-position: center;
+        border-radius: 27px;
+    }
+
+    h2 {
+        margin: 10px;
+        font-style: Comic Sans;
+        opacity: 45%;
+    }
+
+    p {
+        margin: 10px;
+        opacity: 55%;
+    }
+
+    h1 {
+        font-style: ;
+        opacity: 67%;
+        margin: 10px;
+    }
+
+    .button {
+        text-align: center;
+    }
+
+    .button button {
+        padding: 7px;
+        border-radius: 9px;
+        background-color: rgb(216, 239, 248);
+        color: rgb(23, 177, 229);
+        border: none;
+        margin-top: 7px;
+    }
+
+    .button button:hover{
+    box-shadow: 0 8px 20px rgba(123, 194, 252, 0.635);
+    transform: translateY(-1px);
+    }
